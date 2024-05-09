@@ -5115,6 +5115,22 @@
       "priority": 0
     },
     {
+      "fullPath": "presets/4.5/osd/vista.txt",
+      "hash": "2e421a043dcc2905323895073169753397f79ad512d0a3428b151ca1f968315e",
+      "title": "ViperZ28 Vista OSD Settings",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "osd"
+      ],
+      "author": "ViperZ28",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/vtx/HDZero.txt",
       "hash": "9050972b8402eddb537077960adba66b448d73d040a9c52e4b1b9867fba234b9",
       "title": "HDZero VTXs",
