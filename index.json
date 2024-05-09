@@ -5098,9 +5098,25 @@
       "priority": 1000000
     },
     {
+      "fullPath": "presets/4.5/osd/dji-with-sats.txt",
+      "hash": "17bd4e6d5d3b3c61baf0b40719d0328060d5abb3d8bbe75b4b6ff964b146fd8e",
+      "title": "ViperZ28 - DJI with Sats",
+      "firmware_version": [
+        "4.5"
+      ],
+      "category": "OSD",
+      "status": "OFFICIAL",
+      "keywords": [
+        "defaults",
+        "osd"
+      ],
+      "author": "ViperZ28",
+      "priority": 0
+    },
+    {
       "fullPath": "presets/4.5/osd/hdzero-walksnail.txt",
-      "hash": "06639a32b739d5060c1b21ee98b056836f44db9096815adbf8017646ca4ca8cd",
-      "title": "HDZero Walksnail OSD Settings",
+      "hash": "e0ecd67c15a0093ca09a9af71fabc2892f289da5bb792438f72131e44f19e363",
+      "title": "ViperZ28 - HDZero Walksnail",
       "firmware_version": [
         "4.5"
       ],
@@ -5116,8 +5132,8 @@
     },
     {
       "fullPath": "presets/4.5/osd/vista.txt",
-      "hash": "2e421a043dcc2905323895073169753397f79ad512d0a3428b151ca1f968315e",
-      "title": "ViperZ28 Vista OSD Settings",
+      "hash": "fb6d3597d4d4c376aac60180f16076d2253f98ff9548bfcab28453555e00460c",
+      "title": "ViperZ28 - Vista",
       "firmware_version": [
         "4.5"
       ],

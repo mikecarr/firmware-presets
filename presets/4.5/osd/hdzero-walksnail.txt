@@ -1,4 +1,4 @@
-#$ TITLE: HDZero Walksnail OSD Settings
+#$ TITLE: ViperZ28 - HDZero Walksnail
 #$ FIRMWARE_VERSION: 4.5
 #$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
