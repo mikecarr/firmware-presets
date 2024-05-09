@@ -5099,12 +5099,12 @@
     },
     {
       "fullPath": "presets/4.5/osd/hdzero-walksnail.txt",
-      "hash": "bd9d99fecd85ad478157e6392e98a19afc4e2d4e83dec893a7255045b4b4e627",
+      "hash": "2b971473ad3b6607320114214e6350e9c5fffcf50928a01158d7bf6693e66080",
       "title": "HDZero Walksnail OSD Settings",
       "firmware_version": [
         "4.5"
       ],
-      "category": "OTHER",
+      "category": "OSD",
       "status": "OFFICIAL",
       "keywords": [
         "defaults",

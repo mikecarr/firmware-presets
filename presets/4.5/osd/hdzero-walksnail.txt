@@ -1,6 +1,6 @@
 #$ TITLE: HDZero Walksnail OSD Settings
 #$ FIRMWARE_VERSION: 4.5
-#$ CATEGORY: OTHER
+#$ CATEGORY: OSD
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: defaults, osd, Walksnail
 #$ AUTHOR: ViperZ28
