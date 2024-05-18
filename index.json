@@ -5098,9 +5098,9 @@
       "priority": 1000000
     },
     {
-      "fullPath": "presets/4.5/osd/dji-with-sats.txt",
-      "hash": "17bd4e6d5d3b3c61baf0b40719d0328060d5abb3d8bbe75b4b6ff964b146fd8e",
-      "title": "ViperZ28 - DJI with Sats",
+      "fullPath": "presets/4.5/osd/dji-with-gps.txt",
+      "hash": "ecfbaaf84a477866d9998e176f8c483a9415747338c2d92e50331ae1a328a784",
+      "title": "ViperZ28 - DJI with GPS",
       "firmware_version": [
         "4.5"
       ],
