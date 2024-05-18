@@ -10,6 +10,9 @@
 feature -OSD
 feature OSD
 
+set osd_displayport_device = MSP
+set vcd_video_system = HD
+
 # master
 set osd_units = IMPERIAL
 set osd_warn_bitmask = 8191
